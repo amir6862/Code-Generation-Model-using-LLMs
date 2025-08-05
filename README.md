@@ -8,8 +8,8 @@ So, to build a code generation model using LLMs, we need a lot of data on code s
 
    - Go to GitHub Settings.
    - Click on “Generate new token”.
-    - Select the necessary scopes (at least repo scope to access repositories).
-    - Generate the token and copy it.
+   - Select the necessary scopes (at least repo scope to access repositories).
+   - Generate the token and copy it.
 
 # Code Generation Model using LLMs
 Now, let’s get started with the task of building a Code Generation model using LLMs. Before proceeding, here are the commands to install some of the libraries you will be using for the first time if it’s your first time using LLMs:
