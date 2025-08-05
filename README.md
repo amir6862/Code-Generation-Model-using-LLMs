@@ -6,10 +6,10 @@ To build a code generation model using Large Language Models (LLMs), we can star
 So, to build a code generation model using LLMs, we need a lot of data on code snippets. We can collect code snippets from GitHub by using the GitHub API. So, before proceeding with the task of building a code generation model, I recommend you sign up for the GitHub API and get your access token. Here’s the process you can follow:
 
 
-    Go to GitHub Settings.
-    Click on “Generate new token”.
-    Select the necessary scopes (at least repo scope to access repositories).
-    Generate the token and copy it.
+   - Go to GitHub Settings.
+   - Click on “Generate new token”.
+    - Select the necessary scopes (at least repo scope to access repositories).
+    - Generate the token and copy it.
 
 # Code Generation Model using LLMs
 Now, let’s get started with the task of building a Code Generation model using LLMs. Before proceeding, here are the commands to install some of the libraries you will be using for the first time if it’s your first time using LLMs:
